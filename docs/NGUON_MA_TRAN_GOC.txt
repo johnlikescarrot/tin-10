@@ -1,0 +1,266 @@
+BẢN TRÍCH XUẤT TOÀN BỘ NỘI DUNG TỆP NGUỒN
+Tệp: MA TRAN GIUA KI I - LOP 10.docx
+Phương pháp: đọc word/document.xml bằng xml.etree.ElementTree,
+giữ nguyên văn bản của mọi w:t, w:tab, w:br; mỗi ô bảng ghi rõ chỉ số.
+Ô trống được ghi là <empty>. Dòng mới trong cùng một ô được ghi là ' / '.
+Các phần phụ khác trong tệp: word/footer2.xml, word/footer1.xml
+(các footer chỉ chứa 1 kí tự, không có nội dung câu hỏi/đáp án).
+==============================================================================
+
+[Đoạn 1] MA TRẬN ĐỀ KIỂM TRA GIỮA KÌ I 
+[Đoạn 2] MÔN: TIN HỌC 10 - ĐỊNH HƯỚNG ICT 
+[Đoạn 3] - Thời gian làm bài: 45 phút.
+[Đoạn 4] - Hình thức kiểm tra: Kết hợp giữa trắc nghiệm và tự luận (tỉ lệ 70% trắc nghiệm, 30% tự luận).
+[Đoạn 5] - Cấu trúc:
+[Đoạn 6] + Mức độ đề: 70% trắc nghiệm (40 % Nhận biết; 20 % Thông hiểu; 10% Vận dụng), 30% tự luận (10% Thông biểu, 10% Vận dụng; 10% Vận dụng cao).
+[Đoạn 7] + Phần trắc nghiệm: 7,0 điểm (gồm 20 câu hỏi trắc nghiệm 4 lựa chọn, mỗi câu 0,25 điểm; 2 câu lựa chọn đúng/sai, mỗi câu 1,0 điểm)
+[Đoạn 8] + Phần tự luận: 3,0 điểm (1 câu thông hiểu: 1,0 điểm; 1 câu vận dụng: 1,0 điểm; 1 câu vận dụng cao: 1,0 điểm).
+
+######## BẢNG 1 ########
+--- HÀNG 0 ---
+  [0] TT
+  [1] Nội dung kiến thức/kĩ năng
+  [2] Đơn vị kiến thức/kĩ năng
+  [3] Mức độ nhận thức
+  [4] Tổng% điểm
+--- HÀNG 1 ---
+  [0] <empty>
+  [1] <empty>
+  [2] <empty>
+  [3] Nhận biết
+  [4] Thông hiểu
+  [5] Vận dụng
+  [6] Vận dụng cao
+  [7] <empty>
+--- HÀNG 2 ---
+  [0] <empty>
+  [1] <empty>
+  [2] <empty>
+  [3] TN
+  [4] ĐS
+  [5] TL
+  [6] TN
+  [7] ĐS
+  [8] TL
+  [9] TN
+  [10] ĐS
+  [11] TL
+  [12] TN
+  [13] ĐS
+  [14] TL
+  [15] <empty>
+--- HÀNG 3 ---
+  [0] 1
+  [1] Chủ đề A. Máy tính và xã hội tri thức
+  [2] 1. Dữ liệu, thông tin và xử lý thông tin.
+  [3] 2
+  [4] <empty>
+  [5] <empty>
+  [6] 2
+  [7] <empty>
+  [8] <empty>
+  [9] <empty>
+  [10] <empty>
+  [11] 1
+  [12] <empty>
+  [13] <empty>
+  [14] <empty>
+  [15] 20% / (2 điểm)
+--- HÀNG 4 ---
+  [0] <empty>
+  [1] <empty>
+  [2] 2. Vai trò của máy tính và các thiết bị thông minh trong nền kinh tế tri thức
+  [3] 4
+  [4] <empty>
+  [5] <empty>
+  [6] <empty>
+  [7] 2 ý
+  [8] <empty>
+  [9] <empty>
+  [10] 2 ý
+  [11] <empty>
+  [12] <empty>
+  [13] <empty>
+  [14] <empty>
+  [15] 20% / (2 điểm)
+--- HÀNG 5 ---
+  [0] <empty>
+  [1] <empty>
+  [2] 3. Kĩ năng sử dụng thiết bị số của mỗi công dân.
+  [3] <empty>
+  [4] <empty>
+  [5] <empty>
+  [6] <empty>
+  [7] <empty>
+  [8] <empty>
+  [9] <empty>
+  [10] <empty>
+  [11] <empty>
+  [12] <empty>
+  [13] <empty>
+  [14] <empty>
+  [15] <empty>
+--- HÀNG 6 ---
+  [0] 2
+  [1] Chủ đề B. Mạng máy tính và Internet
+  [2] 1. Khái niệm mạng máy tính, Internet, IoT. Phân loại mạng máy tính
+  [3] 4
+  [4] <empty>
+  [5] <empty>
+  [6] <empty>
+  [7] 2 ý
+  [8] <empty>
+  [9] <empty>
+  [10] 2 ý
+  [11] <empty>
+  [12] <empty>
+  [13] <empty>
+  [14] <empty>
+  [15] 20% / (2 điểm)
+--- HÀNG 7 ---
+  [0] <empty>
+  [1] <empty>
+  [2] 2. Sử dụng dịch vụ web. Tự bảo vệ khi tham gia mạng
+  [3] 4
+  [4] <empty>
+  [5] <empty>
+  [6] <empty>
+  [7] <empty>
+  [8] 1
+  [9] <empty>
+  [10] <empty>
+  [11] <empty>
+  [12] <empty>
+  [13] <empty>
+  [14] <empty>
+  [15] 20 % / (2 điểm)
+--- HÀNG 8 ---
+  [0] 3
+  [1] Chủ đề D. Đạo đức, pháp luật và văn hoá trong môi trường số
+  [2] 1. Nghĩa vụ tuân thủ pháp lí trong môi trường số
+  [3] 2
+  [4] <empty>
+  [5] <empty>
+  [6] 2
+  [7] <empty>
+  [8] <empty>
+  [9] <empty>
+  [10] <empty>
+  [11] <empty>
+  [12] <empty>
+  [13] <empty>
+  [14] 1
+  [15] 20 % / (2 điểm)
+--- HÀNG 9 ---
+  [0] Tổng
+  [1] 16
+  [2] <empty>
+  [3] <empty>
+  [4] 4
+  [5] 4 ý
+  [6] 1
+  [7] <empty>
+  [8] 4 ý
+  [9] 1
+  [10] <empty>
+  [11] <empty>
+  [12] 1
+  [13] <empty>
+--- HÀNG 10 ---
+  [0] Tỉ lệ % từng mức độ nhận thức
+  [1] 40
+  [2] 30
+  [3] 20
+  [4] 10
+  [5] 10
+--- HÀNG 11 ---
+  [0] Tỉ lệ chung
+  [1] 70
+  [2] 30
+  [3] 100
+######## HẾT BẢNG 1 ########
+
+[Đoạn 9] Đặc tả đề kiểm tra giữa kì I
+
+######## BẢNG 2 ########
+--- HÀNG 0 ---
+  [0] TT
+  [1] Nội dung kiến thức/kĩ năng
+  [2] Đơn vị kiến thức/kĩ năng
+  [3] Mức độ kiến thức, kĩ năng / cần kiểm tra, đánh giá
+  [4] Số câu hỏi theo các mức độ nhận thức
+--- HÀNG 1 ---
+  [0] <empty>
+  [1] <empty>
+  [2] <empty>
+  [3] <empty>
+  [4] Nhận biết
+  [5] Thông hiểu
+  [6] Vận dụng
+  [7] Vận dụng cao
+--- HÀNG 2 ---
+  [0] 1
+  [1] Chủ đề A. Máy tính và xã hội tri thức
+  [2] 1. Dữ liệu, thông tin và xử lý thông tin
+  [3] Nhận biết / 	– Nêu được sự ưu việt của việc lưu trữ dựa trên các thiết bị số. / Thông hiểu / – Phân biệt được thông tin và dữ liệu, / – Nêu được ví dụ minh hoạ về thông tin và dữ liệu. / Vận dụng / – Chuyển đổi được giữa các đơn vị lưu trữ thông tin: B, KB, MB,... / 	– Xử lí và truyền thông tin bằng thiết bị số.
+  [4] 2 (TN)
+  [5] 2 (TN)
+  [6] 1 (TL)
+  [7] <empty>
+--- HÀNG 3 ---
+  [0] <empty>
+  [1] <empty>
+  [2] 2. Vai trò của máy tính và các thiết bị thông minh trong nền kinh tế tri thức
+  [3] Nhận biết / – Trình bày được những đóng góp cơ bản của tin học đối với xã hội. / – Nhận biết được một vài thiết bị số thông dụng khác ngoài máy tính để bàn và laptop. / – Giới thiệu được các thành tựu nổi bật ở một số mốc thời gian để minh hoạ sự phát triển của ngành tin học. / Thông hiểu / – Nêu được ví dụ cụ thể về thiết bị thông minh. / – Giải thích được vai trò của những thiết bị thông minh đối với sự phát triển của xã hội và cuộc cách mạng công nghiệp 4.0. / – Giải thích được các thiết bị đó cũng là những hệ thống xử lí thông tin. / – Nêu được ví dụ minh họa về những đóng góp cơ bản của tin học đối với xã hội.
+  [4] 4 (TN)
+  [5] 1 (ĐS)
+  [6] <empty>
+  [7] <empty>
+--- HÀNG 4 ---
+  [0] <empty>
+  [1] <empty>
+  [2] 3. Kĩ năng sử dụng thiết bị số của mỗi công dân.
+  [3] Vận dụng / 	 – Khởi động được một số thiết bị số thông dụng / 	– Sử dụng được các tệp dữ liệu, các chức năng và phần mềm ứng dụng cơ bản cài sẵn trên các thiết bị đó.
+  [4] <empty>
+  [5] <empty>
+  [6] <empty>
+  [7] <empty>
+--- HÀNG 5 ---
+  [0] 2
+  [1] Chủ đề B. Mạng máy tính và Internet
+  [2] 1. Khái niệm mạng máy tính, Internet, IoT. Phân loại mạng máy tính.
+  [3] Nhận biết / – Nêu được một số dịch vụ cụ thể mà Điện toán đám mây cung cấp cho người dùng. / – Nêu được khái niệm Internet vạn vật (IoT). / Thông hiểu / – Trình bày được những thay đổi về chất lượng cuộc sống, phương thức học tập và làm việc trong xã hội mà ở đó mạng máy tính được sử dụng phổ biến.  / – So sánh được mạng LAN và Internet.  / – Nêu được ví dụ cụ thể về thay đổi trong cuộc sống mà IoT đem lại. Phát biểu ý kiến cá nhân về lợi ích của IoT.
+  [4] 4 (TN)
+  [5] 1 (ĐS)
+  [6] <empty>
+  [7] <empty>
+--- HÀNG 6 ---
+  [0] <empty>
+  [1] <empty>
+  [2] 2. Sử dụng dịch vụ web. Tự bảo vệ khi tham gia mạng
+  [3] Nhận biết / 	– Trình bày được sơ lược về phần mềm độc hại.  / – Nêu được một vài cách phòng vệ khi bị bắt nạt trên mạng. / – Nêu được những nguy cơ và tác hại nếu tham gia các hoạt động trên Internet một cách bất cẩn và thiếu hiểu biết. / Thông hiểu /  – Trình bày được một số cách đề phòng những tác hại khi tham gia các hoạt động trên Internet / 	Vận dụng / 	– Sử dụng được một số công cụ thông dụng để ngăn ngừa và loại bỏ phần mềm độc hại. / – Sử dụng được một số chức năng xử lí thông tin trên máy PC và thiết bị số, ví dụ dịch tự động văn bản hay tiếng nói. / – Khai thác được một số nguồn học liệu mở trên Internet / - Biết cách tự bảo vệ dữ liệu của cá nhân.
+  [4] 2 (TN)
+  [5] 2 (TN)
+  [6] 1 (TL)
+  [7] <empty>
+--- HÀNG 7 ---
+  [0] 3
+  [1] Chủ đề D. Đạo đức, pháp luật và văn hoá trong môi trường số
+  [2] Nghĩa vụ tuân thủ pháp lí trong môi trường số
+  [3] Nhận biết / – Nêu được một số vấn đề nảy sinh về pháp luật, đạo đức, văn hoá khi việc giao tiếp qua mạng trở nên phổ biến. / – Trình bày được một số nội dung cơ bản của Luật Công nghệ thông tin, Nghị định về quản lí, cung cấp, sử dụng các sản phẩm và dịch vụ Công nghệ thông tin, Luật An ninh mạng. / Thông hiểu /  – Nêu được ví dụ minh họa sự vi phạm bản quyền thông tin và sản phẩm số. Giải thích được sự vi phạm đã diễn ra như thế nào và có thể dẫn tới hậu quả gì. / – Giải thích được một số nội dung cơ bản của Luật Công nghệ thông tin, Nghị định về quản lí, cung cấp, sử dụng các sản phẩm và dịch vụ Công nghệ thông tin, Luật An ninh mạng.  Nêu được ví dụ minh họa. / – Giải thích được một số khía cạnh pháp lí của vấn đề bản quyền, của việc sở hữu, sử dụng và trao đổi thông tin trong môi trường số. Nêu được ví dụ minh hoạ. / – Nêu được ví dụ về những tác hại của việc chia sẻ và phổ biến thông tin một cách bất cẩn. / – Nêu được một vài biện pháp đơn giản và thông dụng để nâng cao tính an toàn và hợp pháp của việc chia sẻ thông tin trong môi trường số. / Vận dụng / – Vận dụng được Luật và Nghị định nêu trên để xác định được tính hợp pháp của một hành vi nào đó trong lĩnh vực quản lí, cung cấp, sử dụng các sản phẩm và dịch vụ Công nghệ thông tin.
+  [4] 4 (TN)
+  [5] <empty>
+  [6] <empty>
+  [7] 1(TL)
+--- HÀNG 8 ---
+  [0] Tỉ lệ %
+  [1] 40%
+  [2] 30%
+  [3] 20%
+  [4] 10%
+--- HÀNG 9 ---
+  [0] Tỉ lệ chung
+  [1] 70%
+  [2] 30%
+######## HẾT BẢNG 2 ########
+

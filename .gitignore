@@ -1,0 +1,12 @@
+# Python build artefacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+
+# Scratch output (the deliverable PDF and its Markdown source ARE tracked)
+*.log
