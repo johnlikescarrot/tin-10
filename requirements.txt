@@ -1,0 +1,4 @@
+# Dùng để build lại đề cương PDF.
+# Cài: python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+reportlab>=4.0
+pypdf>=4.0 ; python_version >= "3.8"
