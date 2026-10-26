@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+build/_tmp.pdf
+build/_pass1.pdf
