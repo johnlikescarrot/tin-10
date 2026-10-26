@@ -1,0 +1,2 @@
+# Dependencies for regenerating docs/on-tap-giua-ki-i-tin-hoc-10.pdf
+reportlab>=4.2,<5
